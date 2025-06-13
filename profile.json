@@ -136,5 +136,8 @@
         "facebook": {
             "link": "https://google.com"
         }
+    },
+    "apiLinks": {
+        "brevoSendMail": "https://brevo-mail-api.sankhadeepnote42.workers.dev/sendMail"
     }
 }
