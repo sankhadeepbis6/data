@@ -4,6 +4,8 @@
         "lastName": "Biswas",
         "profileImage": "/profile.jpg",
         "profileImageLarge": "/profile-big.png",
+        "profileImageWeb": "/profile.webp",
+        "profileImageLargeWeb": "/profile-big.webp",
         "titles": [
             "Software Developer",
             "Full Stack Developer",
@@ -125,16 +127,16 @@
     ],
     "social": {
         "linkedin": {
-            "link": "https://google.com"
+            "link": "https://www.linkedin.com/in/sankhadeep-biswas-a8aaa9173/"
         },
         "github": {
-            "link": "https://google.com"
+            "link": "https://github.com/sankhadeepbis6"
         },
         "leetcode": {
-            "link": "https://google.com"
+            "link": "https://leetcode.com/u/sankhadeepbis6/"
         },
-        "facebook": {
-            "link": "https://google.com"
+        "hackerrack": {
+            "link": "https://www.hackerrank.com/profile/sankhadeep_bisw1"
         }
     },
     "apiLinks": {
