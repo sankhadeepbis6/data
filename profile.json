@@ -1,0 +1,145 @@
+{
+    "personalInfo": {
+        "firstName": "Sankhadeep",
+        "lastName": "Biswas",
+        "profileImage": "/profile.jpg",
+        "profileImageLarge": "/profile-big.png",
+        "profileImageWeb": "/profile.webp",
+        "profileImageLargeWeb": "/profile-big.webp",
+        "titles": [
+            "Software Developer",
+            "Full Stack Developer",
+            "Web Developer",
+            "Tech Explorer"
+        ],
+        "description": "4 years of experience in Full-Stack development with expertise in modular, test-driven development using React.js and Spring Boot. Skilled in CI/CD, REST APIs, and secure coding, with a collaborative approach to delivering high-quality, resilient interfaces. Passionate about driving impactful solutions in sustainability-focused, high-growth environments.",
+        "location": "Kolkata",
+        "experienceTime": "4 years",
+        "email": "",
+        "contactText": "I'd love to hear from you! Whether you have a question, a project idea, or just want to say hello — feel free to reach out.",
+        "resumeLink": "https://sankhadeepbis6.github.io/data/resume.pdf"
+    },
+    "skills": [
+        {
+            "img": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Languages",
+            "items": [
+                "Java",
+                "JavaScript(ES6)",
+                "TypeScript",
+                "HTML",
+                "CSS",
+                "Python",
+                "C++"
+            ],
+            "description": "Proficient in Java and JavaScript, with experience in HTML, and CSS for web development."
+        },
+        {
+            "img": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Frameworks",
+            "items": [
+                "Spring Boot",
+                "Spring Framework",
+                "React.js"
+            ],
+            "description": "Experienced in building robust applications using Spring Boot and React.js, with a focus on modular and test-driven development."
+        },
+        {
+            "img": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Databases",
+            "items": [
+                "MongoDB",
+                "MySQL",
+                "SQL"
+            ],
+            "description": "Skilled in database management and design, with experience in MongoDB and MySQL."
+        },
+        {
+            "img": "https://images.pexels.com/photos/2881229/pexels-photo-2881229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Cloud",
+            "items": [
+                "AWS",
+                "CI/CD"
+            ],
+            "description": "Experience is cloud development and maintenance"
+        },
+        {
+            "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Development",
+            "items": [
+                "Git/GitHub",
+                "Microservices",
+                "Swagger Hub",
+                "Design Pattern",
+                "System Design"
+            ],
+            "description": "Proficient in version control and collaborative development using Git/GitHub, with a strong understanding of microservices architecture and design patterns."
+        },
+        {
+            "img": "https://images.pexels.com/photos/3782236/pexels-photo-3782236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "title": "Methodologies",
+            "items": [
+                "Agile",
+                "Scrum"
+            ],
+            "description": "Familiar with Agile and Scrum methodologies, promoting iterative development and collaboration."
+        }
+    ],
+    "experience": [
+        {
+            "organization": "Tata Consultancy Services",
+            "link": "https://www.tcs.com/",
+            "designation": "System Engineer",
+            "duration": "Aug 2021 - Present",
+            "description": [
+                "4 years of experience in software development, specializing in Java, Spring Boot, and Microservices for enterprise-scale applications.",
+                "Strong expertise in backend development, leveraging Spring Framework, RESTful APIs to build scalable and high-performance applications.",
+                "Hands-on experience with microservices architecture, designing and implementing distributed systems using Spring Boot and REST APIs.",
+                "Experience with cloud platforms, including deployment and infrastructure management. I have knowledge on AWS.",
+                "Proficient in frontend technologies, including React, JavaScript, HTML, and CSS, for building responsive and modern UI components.",
+                "Familiarity with databases, including MySQL, and MongoDB, optimizing queries and ensuring data integrity.",
+                "Strong problem-solving and debugging skills, optimizing application performance and resolving technical issues efficiently.",
+                "Worked with DevOps tools, including Jenkins, GitLab, and build tools like Maven and Gradle, streamlining CI/CD processes.",
+                "Experience with source control systems, including Git and GitLab, for efficient version management and collaboration.",
+                "Worked extensively with APIs, including SOAP, REST, and Kafka, for seamless integration between services.",
+                "Strong understanding of data processing, handling XML, JSON formats, and integrating with external services.",
+                "Experience with unit testing frameworks, including JUnit, Mockito, ensuring high-quality and reliable code."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "organization": "RCC Institute of Information Technology | Maulana Abul Kalam Azad University of Technology",
+            "link": "https://rcciit.org/",
+            "degree": "Bachelor of Technology (B.Tech.)",
+            "duration": "Aug 2017 - Jul 2021",
+            "description": [],
+            "score": "`GPA:` 8.72 / 10.0"
+        },
+        {
+            "organization": "Bhimpur Swamiji Vidyapith | West Bengal Council of Higher Secondary Education",
+            "link": "https://bhimpurswamijividyapith.org/",
+            "degree": "XII Examination",
+            "duration": "Apr 2015 - May 2016",
+            "description": [],
+            "score": "`Percentage:` 83.4 / 100"
+        }
+    ],
+    "social": {
+        "linkedin": {
+            "link": "https://www.linkedin.com/in/sankhadeep-biswas-a8aaa9173/"
+        },
+        "github": {
+            "link": "https://github.com/sankhadeepbis6"
+        },
+        "leetcode": {
+            "link": "https://leetcode.com/u/sankhadeepbis6/"
+        },
+        "hackerrack": {
+            "link": "https://www.hackerrank.com/profile/sankhadeep_bisw1"
+        }
+    },
+    "apiLinks": {
+        "brevoSendMail": "https://brevo-mail-api.sankhadeepnote42.workers.dev/sendMail"
+    }
+}
