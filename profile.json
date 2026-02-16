@@ -87,10 +87,19 @@
     ],
     "experience": [
         {
+            "organization": "Hyland Software India Pvt. Ltd.",
+            "link": "https://www.hyland.com/en",
+            "designation": "Developer 2",
+            "duration": "Dec 2025 - Present",
+            "description": [
+                "Developer in the Brainware Capture Solutions, I contribute to the development and maintenance of intelligent data capture solutions that streamline document processing and enhance data extraction accuracy."
+            ]
+        },
+        {
             "organization": "Tata Consultancy Services",
             "link": "https://www.tcs.com/",
             "designation": "System Engineer",
-            "duration": "Aug 2021 - Present",
+            "duration": "Aug 2021 - Dec 2025",
             "description": [
                 "4 years of experience in software development, specializing in Java, Spring Boot, and Microservices for enterprise-scale applications.",
                 "Strong expertise in backend development, leveraging Spring Framework, RESTful APIs to build scalable and high-performance applications.",
@@ -123,6 +132,14 @@
             "duration": "Apr 2015 - May 2016",
             "description": [],
             "score": "`Percentage:` 83.4 / 100"
+        },
+        {
+            "organization": "Bhimpur Swamiji Vidyapith | West Bengal Board of Secondary Education",
+            "link": "https://bhimpurswamijividyapith.org/",
+            "degree": "X Examination",
+            "duration": "Apr 2013 - May 2014",
+            "description": [],
+            "score": "`Percentage:` 84.14 / 100"
         }
     ],
     "social": {
