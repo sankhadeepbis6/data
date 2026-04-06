@@ -142,6 +142,19 @@
             "score": "`Percentage:` 84.14 / 100"
         }
     ],
+    "certifications": [
+        {
+            "title": "Career Essentials in Generative AI by Microsoft and LinkedIn",
+            "LinkTitle": "View Certificate",
+            "link": "https://www.linkedin.com/learning/certificates/7e04d9face2d931c20a408536dc6367887dfe02017884698b4b24f84e717a909?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B0%2FCVhm4ATbOvmr65%2FwF4dA%3D%3D",
+            "duration": "May 2025",
+            "description": [
+                "Mastered Prompt Engineering best practices to optimize API responses and integrated Microsoft Copilot into IDE workflows to accelerate code generation and debugging.",
+                "Applied Responsible AI principles to evaluate model safety, focusing on mitigating algorithmic bias and ensuring data privacy in automated systems."
+            ],
+            "score": ""
+        }
+    ],
     "social": {
         "linkedin": {
             "link": "https://www.linkedin.com/in/sankhadeep-biswas-a8aaa9173/"
