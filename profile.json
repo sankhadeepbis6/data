@@ -17,7 +17,21 @@
         "experienceTime": "4 years",
         "email": "",
         "contactText": "I'd love to hear from you! Whether you have a question, a project idea, or just want to say hello — feel free to reach out.",
-        "resumeLink": "https://sankhadeepbis6.github.io/data/resume.pdf"
+        "resumeLink": "https://sankhadeepbis6.github.io/data/resume.pdf",
+        "links": [
+            {
+                "text": "LinkedIn",
+                "link": "https://www.linkedin.com/in/sankhadeep-biswas-a8aaa9173/",
+                "icon": "linkedin",
+                "linkStyle": true
+            },
+            {
+                "text": "Portfolio",
+                "link": "https://www.sankhaverse.com/",
+                "icon": "web",
+                "linkStyle": true
+            }
+        ]
     },
     "skills": [
         {
@@ -165,7 +179,7 @@
         "leetcode": {
             "link": "https://leetcode.com/u/sankhadeepbis6/"
         },
-        "hackerrack": {
+        "hackerrank": {
             "link": "https://www.hackerrank.com/profile/sankhadeep_bisw1"
         }
     },
