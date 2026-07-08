@@ -39,14 +39,25 @@
             "title": "Languages",
             "items": [
                 "Java",
-                "JavaScript(ES6)",
+                "JavaScript (ES6)",
                 "TypeScript",
-                "HTML",
-                "CSS",
                 "Python",
-                "C++"
+                "C++",
+                "HTML",
+                "CSS"
             ],
-            "description": "Proficient in Java and JavaScript, with experience in HTML, and CSS for web development."
+            "description": "Strong foundation in Java with experience building scalable backend systems, complemented by modern web technologies and scripting languages."
+        },
+        {
+            "img": "https://images.pexels.com/photos/28390781/pexels-photo-28390781.jpeg?_gl=1",
+            "title": "APIs & Integration",
+            "items": [
+                "RESTful APIs",
+                "Swagger/OpenAPI",
+                "JSON",
+                "XML"
+            ],
+            "description": "Experienced in designing, documenting, and integrating RESTful services using industry-standard data exchange formats."
         },
         {
             "img": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -56,38 +67,39 @@
                 "Spring Framework",
                 "React.js"
             ],
-            "description": "Experienced in building robust applications using Spring Boot and React.js, with a focus on modular and test-driven development."
+            "description": "Experienced in developing enterprise-grade backend services with Spring and building modern, responsive user interfaces with React."
         },
         {
             "img": "https://images.pexels.com/photos/1148820/pexels-photo-1148820.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
             "title": "Databases",
             "items": [
-                "MongoDB",
                 "MySQL",
+                "MongoDB",
                 "SQL"
             ],
-            "description": "Skilled in database management and design, with experience in MongoDB and MySQL."
+            "description": "Skilled in relational and NoSQL database design, optimization, and efficient data modeling."
         },
         {
             "img": "https://images.pexels.com/photos/2881229/pexels-photo-2881229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "title": "Cloud",
+            "title": "Cloud & DevOps",
             "items": [
                 "AWS",
-                "CI/CD"
+                "CI/CD",
+                "Git",
+                "GitHub",
+                "Jenkins"
             ],
-            "description": "Experience is cloud development and maintenance"
+            "description": "Hands-on experience with AWS services, version control, and CI/CD pipelines to support reliable software delivery."
         },
         {
             "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-            "title": "Development",
+            "title": "Architecture",
             "items": [
-                "Git/GitHub",
                 "Microservices",
-                "Swagger Hub",
-                "Design Pattern",
-                "System Design"
+                "System Design",
+                "Design Patterns"
             ],
-            "description": "Proficient in version control and collaborative development using Git/GitHub, with a strong understanding of microservices architecture and design patterns."
+            "description": "Knowledge of scalable software architecture, microservices, and object-oriented design principles for building maintainable applications."
         },
         {
             "img": "https://images.pexels.com/photos/3782236/pexels-photo-3782236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
@@ -96,7 +108,7 @@
                 "Agile",
                 "Scrum"
             ],
-            "description": "Familiar with Agile and Scrum methodologies, promoting iterative development and collaboration."
+            "description": "Experienced working in Agile Scrum environments with a focus on collaboration, iterative delivery, and continuous improvement."
         }
     ],
     "experience": [
@@ -106,7 +118,8 @@
             "designation": "Developer 2",
             "duration": "Dec 2025 - Present",
             "description": [
-                "Developer in the Brainware Capture Solutions, I contribute to the development and maintenance of intelligent data capture solutions that streamline document processing and enhance data extraction accuracy."
+                "Developer in the Brainware Capture Solutions, I contribute to the development & maintenance of intelligent data capture solutions that streamline document processing & enhance data extraction accuracy.",
+                "Handled GitHub migration, setting up repositories, role-based access control, branch protection rules, and automated code and security scans to support secure development workflows."
             ]
         },
         {
@@ -115,18 +128,15 @@
             "designation": "System Engineer",
             "duration": "Aug 2021 - Dec 2025",
             "description": [
-                "4 years of experience in software development, specializing in Java, Spring Boot, and Microservices for enterprise-scale applications.",
-                "Strong expertise in backend development, leveraging Spring Framework, RESTful APIs to build scalable and high-performance applications.",
-                "Hands-on experience with microservices architecture, designing and implementing distributed systems using Spring Boot and REST APIs.",
-                "Experience with cloud platforms, including deployment and infrastructure management. I have knowledge on AWS.",
-                "Proficient in frontend technologies, including React, JavaScript, HTML, and CSS, for building responsive and modern UI components.",
-                "Familiarity with databases, including MySQL, and MongoDB, optimizing queries and ensuring data integrity.",
-                "Strong problem-solving and debugging skills, optimizing application performance and resolving technical issues efficiently.",
-                "Worked with DevOps tools, including Jenkins, GitLab, and build tools like Maven and Gradle, streamlining CI/CD processes.",
-                "Experience with source control systems, including Git and GitLab, for efficient version management and collaboration.",
-                "Worked extensively with APIs, including SOAP, REST, and Kafka, for seamless integration between services.",
-                "Strong understanding of data processing, handling XML, JSON formats, and integrating with external services.",
-                "Experience with unit testing frameworks, including JUnit, Mockito, ensuring high-quality and reliable code."
+                "4+ years of experience in software development using Java, Spring Boot, and Microservices for enterprise-scale applications.",
+                "Designed and developed RESTful APIs and microservices using Spring Boot, handling up to 300 TPS, returning JSON responses, and supporting scalable, distributed system architectures.",
+                "Migrated applications to AWS, managing deployment and cloud configuration, and improving system scalability, availability, and reliability.",
+                "Optimized MongoDB queries, improving search performance by 200% and download performance by 500% through efficient query tuning and indexing.",
+                "Developed Kafka consumers capable of processing up to 5,000 transactions per second, enabling high-throughput event-driven communication between services.",
+                "Served as POC for GitLab migration, managing repository access, roles, and rules, and building CI/CD pipelines with automated code quality checks and security scans",
+                "Built responsive frontend interfaces using React.js, JavaScript, HTML, and CSS, including user authentication and authorization integrated with backend services.",
+                "Implemented unit testing using JUnit and Mockito, achieving 85%+ code coverage and improving code quality and maintainability.",
+                "Utilized AI tools (Claude, Copilot) to improve development productivity by 80% and accelerate feature delivery."
             ]
         }
     ],
@@ -185,5 +195,12 @@
     },
     "apiLinks": {
         "brevoSendMail": "https://brevo-mail-api.sankhadeepnote42.workers.dev/sendMail"
+    },
+    "config": {
+        "serverDownload": false,
+        "downloadThresholdCount": 1,
+        "downloadThresholdMS": 8000,
+        "pageHeightOffset": 80,
+        "previewTopBottomGap": true
     }
 }
