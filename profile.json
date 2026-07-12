@@ -200,7 +200,15 @@
         "serverDownload": false,
         "downloadThresholdCount": 1,
         "downloadThresholdMS": 8000,
-        "pageHeightOffset": 80,
         "previewTopBottomGap": true
+    },
+    "style": {
+        "pageMeasurementOffset": 15,
+        "page": {
+            "paddingTop": "15mm",
+            "paddingRight": "15mm",
+            "paddingBottom": "15mm",
+            "paddingLeft": "15mm"
+        }
     }
 }
